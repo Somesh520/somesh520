@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Somesh Tiwari</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
 <h1 align="center">Heyy, I'm Somesh Tiwari 🤘</h1>
 <h3 align="center">Backend Engineer | API Wizard 🧙‍♂️ | Code, Coffee & Chaos ☕🔥</h3>
 
