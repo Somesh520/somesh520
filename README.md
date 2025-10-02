@@ -44,7 +44,6 @@ Here are some of the projects we've worked on together:
 
 | Project Name         | Description                                                               | Tech Stack                                |
 | -------------------- | ------------------------------------------------------------------------- | ----------------------------------------- |
-| **Kanchan Project** | A full-stack application with a mobile frontend and a dedicated backend.  | `React Native`, `Node.js`, `Express`, `Mongoose` |
 | **QuickShare** | A fast file-sharing platform built to handle uploads efficiently.         | `Node.js`, `MongoDB`, `Cloudinary`, `Express`   |
 | **Vakya-Sangham** | A mobile application developed using React Native.                        | `React Native`                            |
 | **BunkBook (Kietkt)**| A React Native mobile app for students.                                   | `React Native`                            |
