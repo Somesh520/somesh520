@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ### 📈 **Software Engineering Metrics**
 
 <p align="center">
